@@ -1,4 +1,4 @@
-from api import db
+from consorcio_api import db
 from .customer_model import Customer
 from .consortium_model import Consortium
 

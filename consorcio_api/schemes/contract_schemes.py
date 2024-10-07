@@ -1,4 +1,4 @@
-from api import ma
+from consorcio_api import ma
 from models.contract_model import Contract
 from marshmallow import fields
 

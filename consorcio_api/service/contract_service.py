@@ -1,5 +1,5 @@
 from models.contract_model import Contract
-from api import db
+from consorcio_api import db
 
 def cadastrar_contrato(contrato):
     db.session.add(contrato)

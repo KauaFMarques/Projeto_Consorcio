@@ -1,4 +1,4 @@
-from api import db
+from consorcio_api import db
 
 class Consortium(db.Model):
     __tablename__ = "consortium"

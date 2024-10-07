@@ -1,4 +1,4 @@
-from api import ma
+from consorcio_api import ma
 from models.consortium_model import Consortium
 
 class ConsortiumSchema(ma.SQLAlchemyAutoSchema):

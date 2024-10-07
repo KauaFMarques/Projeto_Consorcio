@@ -1,4 +1,4 @@
-import api from db
+from consorcio_api import db
 
 class Customer(db.Model):
     __tablename__="customer"
